@@ -1,0 +1,11 @@
+[
+  {
+    "uri": "urn:uuid:276180ee-e682-4d8c-85c3-728b0d62120c#/properties",
+    "schemaUri": "http://json-schema.org/draft-03/schema#/properties/properties",
+    "attribute": "type",
+    "message": "Instance is not a required type",
+    "details": [
+      "object"
+    ]
+  }
+]
